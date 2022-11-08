@@ -4,6 +4,10 @@
 
 ![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitoraa&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitoraa&layout=compact&theme=tokyonight)](https://github.com/joaovitoraa/github-readme-stats)
+
+
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -16,3 +20,5 @@
 </div>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas atráves da programação.
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+  

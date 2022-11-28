@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/joaovitor-front-end)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaovitoraa_/)[![Portfólio](https://img.shields.io/badge/Portfólio-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://joaovitoraa.github.io/)
 
-![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitoraa&show_icons=true&theme=tokyodark)
+![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitoraa&show_icons=true&theme=transparent)
 
 
 

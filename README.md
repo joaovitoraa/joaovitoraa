@@ -18,5 +18,5 @@
 </div>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-![snake gif](https://github.com/joaovitoraa/joaovitoraa/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
 </div>

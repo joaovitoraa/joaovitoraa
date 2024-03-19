@@ -18,5 +18,5 @@
 </div>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-![Snake animation]([https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhpnonline.org%2FA-Hist-ria-de-Snake-Do-Arcade-at-Agora-92645.html&psig=AOvVaw3PPSkvKjzY49CFDmLuGmKn&ust=1710966032530000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjviaaTgYUDFQAAAAAdAAAAABAc)https://www.google.com/url?sa=i&url=https%3A%2F%2Fhpnonline.org%2FA-Hist-ria-de-Snake-Do-Arcade-at-Agora-92645.html&psig=AOvVaw3PPSkvKjzY49CFDmLuGmKn&ust=1710966032530000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjviaaTgYUDFQAAAAAdAAAAABAc)
+![Snake animation]([https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg])
 </div>
